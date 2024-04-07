@@ -15,7 +15,7 @@
 #### Coding status last week ⌨️
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -54,10 +54,11 @@ Sunday                   2 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     3 mins              ████████████████████████░   97.30 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -71,7 +72,7 @@ TeX                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 06/04/2024 18:32:26 UTC
+ Last Updated on 07/04/2024 18:32:55 UTC
 <!--END_SECTION:waka-->
 
 <br/>
