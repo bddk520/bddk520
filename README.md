@@ -12,7 +12,7 @@
 
 
 
-#### Coding status last week ⌨️
+#### Coding status  ⌨️
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-274%20hrs%2031%20mins-blue)
