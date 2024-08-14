@@ -15,9 +15,9 @@
 #### Coding status  ⌨️
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-277%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-277%20hrs%2056%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -54,10 +54,12 @@ Sunday                   2 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     7 mins              ██████████████░░░░░░░░░░░   55.18 % 
+V                        3 mins              ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
+TeX                      2 mins              █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -71,7 +73,7 @@ TeX                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 13/08/2024 18:38:47 UTC
+ Last Updated on 14/08/2024 18:38:00 UTC
 <!--END_SECTION:waka-->
 
 <br/>
