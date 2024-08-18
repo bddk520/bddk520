@@ -15,15 +15,13 @@
 #### Coding status  ⌨️
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-291%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-290%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 341.8 kB Used in GitHub's Storage 
- > 
-> 🏆 27 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -77,7 +75,7 @@ TeX                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 17/08/2024 18:36:11 UTC
+ Last Updated on 18/08/2024 18:35:39 UTC
 <!--END_SECTION:waka-->
 
 <br/>
