@@ -17,7 +17,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-324%20hrs%2053%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -75,7 +75,7 @@ TeX                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 01/09/2024 18:37:26 UTC
+ Last Updated on 02/09/2024 18:39:13 UTC
 <!--END_SECTION:waka-->
 
 <br/>
