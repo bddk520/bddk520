@@ -15,13 +15,15 @@
 #### Coding status  ⌨️
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-412%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-412%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 349.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 28 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,15 +69,15 @@ VS Code                  7 hrs 46 mins       ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   4 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-HTML                     3 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
-TeX                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Python                   5 repos             ██████████████░░░░░░░░░░░   55.56 % 
+HTML                     3 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+TeX                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 ```
 
 
 
 
- Last Updated on 04/11/2024 18:40:46 UTC
+ Last Updated on 05/11/2024 18:41:00 UTC
 <!--END_SECTION:waka-->
 
 <br/>
