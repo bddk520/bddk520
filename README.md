@@ -16,7 +16,7 @@
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
+[![wakatime](https://wakatime.com/badge/user/018e09e3-d90d-4a2b-b0ea-f94b21c1e367.svg)](https://wakatime.com/@018e09e3-d90d-4a2b-b0ea-f94b21c1e367)
 **🐱 My GitHub Data** 
 
 > 📦 380.8 kB Used in GitHub's Storage 
