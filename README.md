@@ -15,15 +15,13 @@
 #### Coding status  ⌨️
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-845%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-846%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 499.7 kB Used in GitHub's Storage 
- > 
-> 🏆 53 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,10 +54,11 @@ Sunday                   21 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   48 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   43 mins             ███████████████████████░░   90.88 % 
+VS Code                  4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
 ```
 
 **I Mostly Code in Python** 
@@ -75,7 +74,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/06/2025 18:46:48 UTC
+ Last Updated on 21/06/2025 18:43:24 UTC
 <!--END_SECTION:waka-->
 
 <br/>
