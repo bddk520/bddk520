@@ -15,7 +15,7 @@
 #### Coding status  ⌨️
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-925%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-926%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -56,10 +56,14 @@ Sunday                   27 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     16 mins             █████████░░░░░░░░░░░░░░░░   37.28 % 
+Markdown                 10 mins             ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
+HTML                     7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+Bash                     6 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  43 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -75,7 +79,7 @@ TypeScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2025 18:44:00 UTC
+ Last Updated on 18/10/2025 18:41:59 UTC
 <!--END_SECTION:waka-->
 
 <br/>
