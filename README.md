@@ -17,7 +17,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-927%20hrs%2035%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
@@ -56,12 +56,10 @@ Sunday                   27 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr                █████████████████████░░░░   85.69 % 
-Markdown                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 10 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -77,7 +75,7 @@ TypeScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2025 18:48:03 UTC
+ Last Updated on 31/10/2025 18:47:14 UTC
 <!--END_SECTION:waka-->
 
 <br/>
