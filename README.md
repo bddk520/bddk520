@@ -15,13 +15,15 @@
 #### Coding status  ⌨️
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-927%20hrs%2049%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 600.4 kB Used in GitHub's Storage 
  > 
-> 🏆 246 Contributions in the Year 2025
+> 🏆 247 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -29,6 +31,37 @@
  > 
 > 🔑 20 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+🌆 Daytime                64 commits          █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+🌃 Evening                70 commits          █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+🌙 Night                  204 commits         ██████████████░░░░░░░░░░░   57.46 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   68 commits          █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+Tuesday                  49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Wednesday                68 commits          █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+Thursday                 54 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+Friday                   62 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Saturday                 27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Sunday                   27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TeX                      14 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Cursor                   14 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -42,7 +75,7 @@ TypeScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2025 18:44:15 UTC
+ Last Updated on 04/11/2025 18:47:20 UTC
 <!--END_SECTION:waka-->
 
 <br/>
