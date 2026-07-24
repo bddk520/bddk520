@@ -29,43 +29,6 @@
  > 
 > 🔑 23 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                30 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-🌆 Daytime                83 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-🌃 Evening                85 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-🌙 Night                  377 commits         ████████████████░░░░░░░░░   65.57 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   114 commits         █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
-Tuesday                  93 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-Wednesday                106 commits         █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
-Thursday                 92 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Friday                   98 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-Saturday                 32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-Sunday                   40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   6 hrs 50 mins       ██████████████████░░░░░░░   73.35 % 
-JSON                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-Other                    47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-TOML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-
-🔥 Editors: 
-Codex CLI                8 hrs 32 mins       ███████████████████████░░   91.43 % 
-VS Code                  47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -79,7 +42,7 @@ TypeScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2026 19:53:42 UTC
+ Last Updated on 24/07/2026 19:52:53 UTC
 <!--END_SECTION:waka-->
 
 <br/>
