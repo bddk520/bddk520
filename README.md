@@ -15,6 +15,8 @@
 #### Coding status  ⌨️
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C635%20hrs%205%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -29,6 +31,43 @@
  > 
 > 🔑 23 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                30 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+🌆 Daytime                83 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+🌃 Evening                85 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+🌙 Night                  377 commits         ████████████████░░░░░░░░░   65.57 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   114 commits         █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+Tuesday                  93 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Wednesday                106 commits         █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
+Thursday                 92 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Friday                   98 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+Saturday                 32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Sunday                   40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   9 hrs 2 mins        ████████████████████░░░░░   78.84 % 
+JSON                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Other                    44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+TOML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+
+🔥 Editors: 
+Codex CLI                10 hrs 40 mins      ███████████████████████░░   93.03 % 
+VS Code                  47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -42,7 +81,7 @@ TypeScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 19:52:53 UTC
+ Last Updated on 25/07/2026 19:40:19 UTC
 <!--END_SECTION:waka-->
 
 <br/>
