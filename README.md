@@ -17,7 +17,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C569%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-448%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-448%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -58,38 +58,38 @@ Sunday                   40 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 18 mins       █████████████░░░░░░░░░░░░   52.25 % 
-Other                    2 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
-JSON                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Markdown                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-YAML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+Python                   5 hrs 18 mins       ████████████░░░░░░░░░░░░░   49.29 % 
+Other                    2 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
+JSON                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Markdown                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+YAML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
 
 🔥 Editors: 
-Codex CLI                9 hrs 29 mins       ███████████████████████░░   93.33 % 
-VS Code                  40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Codex CLI                9 hrs 51 mins       ███████████████████████░░   91.47 % 
+VS Code                  55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 54 mins (97.41%)
+⏱ AI Coding Time: 10 hrs 18 mins (95.7%)
 
-✍️ 882 lines written by AI, 2,106 lines written by hand (29.52% AI-written)
+✍️ 882 lines written by AI, 2,118 lines written by hand (29.4% AI-written)
 
-🔤 80,128,800 Input Tokens, 188,943 Output Tokens
+🔤 90,080,950 Input Tokens, 218,578 Output Tokens
 
-💵 $406.21 Estimated AI Cost This Week
+💵 $456.86 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 82 AI Prompts
+🧠 21 AI Sessions, 87 AI Prompts
 
 GPT                      882 lines           █████████████████████████   100.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 29.52% of written lines came from AI
-📄 Detailed Prompter — average 527 characters per prompt
+🧑‍💻 Mostly Hands-On — 29.4% of written lines came from AI
+📄 Detailed Prompter — average 520 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 82.76% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 82.8% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -105,7 +105,7 @@ TypeScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 19:59:53 UTC
+ Last Updated on 01/08/2026 19:40:47 UTC
 <!--END_SECTION:waka-->
 
 <br/>
