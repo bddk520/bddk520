@@ -58,41 +58,41 @@ Sunday                   40 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   25 hrs 43 mins      ████████████████████░░░░░   79.33 % 
-Markdown                 2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-Bash                     1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-YAML                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Python                   24 hrs 19 mins      █████████████████████░░░░   84.26 % 
+Markdown                 2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+YAML                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Text                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 🔥 Editors: 
-Codex CLI                27 hrs 35 mins      █████████████████████░░░░   85.11 % 
-Claude Code              2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-VS Code                  1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-Codex Exec               1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Codex CLI                25 hrs 14 mins      ██████████████████████░░░   87.42 % 
+Claude Code              1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+VS Code                  1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+Codex Exec               49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 hrs 11 mins (99.28%)
+⏱ AI Coding Time: 28 hrs 40 mins (99.33%)
 
-✍️ 10,804 lines written by AI, 80 lines written by hand (99.26% AI-written)
+✍️ 7,125 lines written by AI, 80 lines written by hand (98.89% AI-written)
 
-🔤 215,056,494 Input Tokens, 3,328,793 Output Tokens
+🔤 207,309,852 Input Tokens, 3,078,847 Output Tokens
 
-💵 $3867.89 Estimated AI Cost This Week
+💵 $3792.75 Estimated AI Cost This Week
 
-🧠 45 AI Sessions, 265 AI Prompts
+🧠 28 AI Sessions, 217 AI Prompts
 
-GPT                      6,682 lines         █████████████████████████   100.00 % 
+GPT                      4,578 lines         █████████████████████████   100.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Exec               0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.26% of written lines came from AI
-📄 Detailed Prompter — average 851 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 1.37% of changed lines were hand-edited
+🤖 AI-Driven — 98.89% of written lines came from AI
+📄 Detailed Prompter — average 715 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 2.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -108,7 +108,7 @@ TypeScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2026 19:08:56 UTC
+ Last Updated on 21/08/2026 19:04:50 UTC
 <!--END_SECTION:waka-->
 
 <br/>
