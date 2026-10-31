@@ -58,34 +58,34 @@ Sunday                   41 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               2 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   41.53 % 
-Other                    2 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   40.47 % 
-Markdown                 59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-TeX                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-Python                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+JavaScript               2 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   41.76 % 
+Other                    2 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   40.14 % 
+Markdown                 59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+TeX                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Python                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 12 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 59 mins (96.97%)
+⏱ AI Coding Time: 6 hrs 57 mins (96.96%)
 
 ✍️ 697 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 5,104,449 Input Tokens, 473,035 Output Tokens
+🔤 4,877,935 Input Tokens, 469,362 Output Tokens
 
-💵 $49.04 Estimated AI Cost This Week
+💵 $48.34 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 41 AI Prompts
+🧠 11 AI Sessions, 42 AI Prompts
 
 GPT                      697 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 297 characters per prompt
+📝 Concise Prompter — average 290 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -93,17 +93,17 @@ GPT                      697 lines           ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   18 repos            ███████████████░░░░░░░░░░   58.06 % 
-TeX                      5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Python                   18 repos            ██████████████░░░░░░░░░░░   56.25 % 
+TeX                      5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
 ```
 
 
 
 
- Last Updated on 30/10/2026 22:31:58 UTC
+ Last Updated on 31/10/2026 21:46:56 UTC
 <!--END_SECTION:waka-->
 
 <br/>
